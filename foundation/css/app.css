@@ -1,0 +1,16 @@
+body{
+	background-image: url(../images/chocolatefondo.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.something{
+	background-color: #906b4d;
+	opacity:0.9;
+}
+
+.postcolor{
+	background-color: #5c3e2e;
+	opacity:0.9;
+}
